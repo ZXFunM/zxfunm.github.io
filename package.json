@@ -1,0 +1,15 @@
+{
+  "name": "zxf.zone",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "ZXFunM <me@zxf.zone>",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.61",
+    "vuepress-theme-hope": "^2.0.0-beta.201"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  }
+}
